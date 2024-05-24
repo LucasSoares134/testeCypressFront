@@ -1,0 +1,15 @@
+{
+  "name": "testecypressfront",
+  "version": "1.0.0",
+  "description": "-Projeto criado apenas para validação simples, de teste automatizado, usando cypress",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}
